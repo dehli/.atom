@@ -3,3 +3,5 @@
     telemetryConsent: "no"
   "exception-reporting":
     userId: "aaf25ef3-576c-439f-a8f1-0add06ea348f"
+  "tree-view":
+    "hideVcsIgnoredFiles": true
