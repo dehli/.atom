@@ -1,6 +1,8 @@
 "*":
   core:
     telemetryConsent: "no"
+  editor:
+    showInvisibles: true
   "exception-reporting":
     userId: "aaf25ef3-576c-439f-a8f1-0add06ea348f"
   "tree-view":
