@@ -4,6 +4,7 @@
       "source.ini": [
         ".buckconfig"
         ".hgrc"
+        ".flowconfig"
       ]
       "source.json": [
         "BUCK.autodeps"
@@ -19,5 +20,7 @@
     showInvisibles: true
   "exception-reporting":
     userId: "aaf25ef3-576c-439f-a8f1-0add06ea348f"
+  nuclide:
+    installRecommendedPackages: true
   "tree-view":
     hideVcsIgnoredFiles: true
