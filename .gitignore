@@ -7,3 +7,5 @@ packages
 .node-gyp
 .npm
 .DS_Store
+node_modules/
+recovery/
