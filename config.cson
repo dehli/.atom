@@ -22,5 +22,7 @@
     userId: "aaf25ef3-576c-439f-a8f1-0add06ea348f"
   nuclide:
     installRecommendedPackages: true
+    "nuclide-home":
+      showHome: false
   "tree-view":
     hideVcsIgnoredFiles: true
