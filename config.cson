@@ -15,8 +15,20 @@
     disabledPackages: [
       "tree-view"
     ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "node_modules"
+      ".expo"
+    ]
     telemetryConsent: "no"
   editor:
+    fontSize: 15
     showInvisibles: true
   "exception-reporting":
     userId: "aaf25ef3-576c-439f-a8f1-0add06ea348f"
